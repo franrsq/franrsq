@@ -28,6 +28,6 @@ I'm Fran Soto, someone very interested in technology ever since I was a child. I
 ## 📈 Github stats
 
 <span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franrsq" alt="Most Used Languages" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=franrsq&show_icons=true&count_private=true" alt="Github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franrsq&theme=dracula" alt="Most Used Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=franrsq&show_icons=true&count_private=true&theme=dracula" alt="Github stats" />
 </span>
